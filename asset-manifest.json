@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lunacalproject/static/css/main.bd6e87c4.css",
+    "main.js": "/lunacalproject/static/js/main.e7d0ff28.js",
+    "index.html": "/lunacalproject/index.html",
+    "main.bd6e87c4.css.map": "/lunacalproject/static/css/main.bd6e87c4.css.map",
+    "main.e7d0ff28.js.map": "/lunacalproject/static/js/main.e7d0ff28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd6e87c4.css",
+    "static/js/main.e7d0ff28.js"
+  ]
+}
